@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/isuru_raveen" target="blank"><img src="https://img.shields.io/twitter/follow/isuru_raveen?logo=twitter&style=for-the-badge" alt="isuru_raveen" /></a> </p>
 
-- 🌱 I’m currently learning **Java/ Kotlin/ Angular**
+- 🌱 I’m currently learning **MERN  STACK**  interested  in  **Java/ Kotlin/ Angular**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
